@@ -1,4 +1,4 @@
-.gitignore
+
 ARCHIVE DOCUMENT: CONFIDENTIAL  
 CLASSIFICATION: OLYMPUS-TIER  
 SUBJECT: Post-Incident Analysis — Blacksite 182  
