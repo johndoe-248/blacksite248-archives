@@ -1,0 +1,63 @@
+# FILE: B182_ENTROPY_CORRUPTED.md  
+
+**CLASSIFICATION:** subΔ-TIER  
+**SOURCE:** Blacksite 182 — Internal Data Storage  
+**STATUS:** UNRECOVERABLE / CORRUPTED  
+
+---
+
+`[ERROR 0x1F4C2: DATA FRAGMENT MISSING]`  
+`[ERROR 0x1F4C3: SECTION HEADER UNREADABLE]`  
+
+▒▒▓▓▒▒▓▒▓▒▒▒▓▒▓▒▒▓▒▒▓▓▒▒▒▓▓▒▒▒▓▒▓▒▓▒▒▒▓▒▒▒▓▒▓▒▒▒▓▒▒▒▓▒▓▒▓▒▒▒▓▒▒▒▓▒▒▒▒  
+
+[DATA REDACTED]  
+[DATA REDACTED]  
+[DATA REDACTED]  
+
+`[ERROR: MEMORY BLOCK 0x4A2F CORRUPTED]`  
+
+---  
+
+`# SECTION ???`  
+`[DATA UNREADABLE]`  
+`[SENSOR LOGS MISSING]`  
+`[TIMESTAMP: NULL]`  
+
+▒▒▒▓▒▒▒▒▒▒▓▒▓▒▒▒▓▒▒▒▒▒▒▓▒▓▒▒▒▒▒▒▒▒▓▒▓▒▒▒▒▒▒▒▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  
+
+`[ALERT: CHECKSUM FAILED]`  
+`[WARNING: ANOMALOUS SIGNAL DETECTED]`  
+`[DATA FRAGMENT INCOMPLETE]`  
+
+`[LOG FRAGMENT: “...the obs⛶lisk is shifting...]`  
+`[LOG FRAGMENT: “...limbo coordinates unstable...]`  
+
+---  
+
+`# SECTION CORRUPTED`  
+
+▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒  
+
+`[REDACTED]`  
+`[REDACTED]`  
+`[REDACTED]`  
+
+`[ERROR: MULTIPLE SECTORS UNREADABLE]`  
+`[WARNING: FILE INTEGRITY LOST]`  
+
+`[GLITCH FRAGMENT: “...ob⛶lisk projection detected sector 7...]`  
+`[GLITCH FRAGMENT: “...entropy resonance approaching liminal threshold...]`  
+
+---  
+
+`# FOOTER`  
+
+File Name: `B182_ENTROPY_CORRUPTED`  
+Size: 6.4GB (Partial Data)  
+Checksum: FAILED  
+Status: Unrecoverable  
+
+▒▒▒▒▓▒▒▓▒▒▒▒▓▒▓▒▒▓▒▒▒▒▓▒▒▒▒▒▒▒▒▒▓▒▒▒▒▒▓▒▒▒▒▓▒▓▒▒▒▓▒▒▒▒▒▓▒▒▒▒▒▓▒▒▒▒▒▒▒▒  
+
+`[END OF FILE]`  
