@@ -15,11 +15,11 @@
 `# BINARY SCRAMBLE BLOCK (INDEX FRAGMENTS)`  
 > *(first four binary sequences — scrambled-word ASCII)*
 
-1) `01100101 01101000 01110100`        ← (scramble of "the" : "eht")  
-2) `01111001 01100101 01101011`        ← (scramble of "key" : "yek")  
-3) `01110011 01101001`                 ← (scramble of "is"  : "si")  
+1) `01100101 01101000 01110100`       
+2) `01111001 01100101 01101011`         
+3) `01110011 01101001`                  
 4) `01101100 01101011 01100101 01110011 01101111 01100010 01101001`  
-   ← (scramble of "obelisk" : "lkesobi")
+  
 
 ▒▒▓▓▒▒▓▒▓▒▒▒▓▒▓▒▒▓▒▒▓▓▒▒▒▓▓▒▒▒▓▒▓▒▓▒▒▒▓▒▒▒▓▒▓▒▒▒▓▒▒▒▓▒▓▒▓▒▒▒▓▒▒▒▓▒▒▒▒
 
@@ -77,7 +77,7 @@
 File Name: `Δ_CORRUPTED_ULTIMATE`  
 Size: 4.9GB (FRAGMENTED / GLITCHED / PARTIAL)  
 Checksum: FAILED — MULTIPLE BLOCKS LOST  
-Status: PARTIALLY DECODABLE (LIMITED CLUES ONLY)
+Status: PARTIALLY DECODABLE
 
 `[WARNING: ATTEMPT TO RECONSTRUCT MAY TRIGGER RESIDUAL RESONANCE]`  
 `[ALERT: POSSIBLE OVERRIDE INTERFERENCE FROM UNKNOWN CLEARANCE LEVEL]`  
